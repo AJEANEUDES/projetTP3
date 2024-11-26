@@ -1,0 +1,3 @@
+com\sketchrecognition\service\RecognitionService.class
+com\sketchrecognition\SketchRecognitionApplication.class
+com\sketchrecognition\controller\MainController.class
